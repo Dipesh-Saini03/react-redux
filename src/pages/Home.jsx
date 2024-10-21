@@ -26,7 +26,7 @@ import img5 from '../images/slide5.jpg';
         
       <>
       <Swiper
-        slidesPerView={4}
+        slidesPerView={3}
         spaceBetween={30}
         pagination={{
           clickable: true,
